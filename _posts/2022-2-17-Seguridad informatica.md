@@ -1,5 +1,4 @@
 ---
-layout: mypost
 title: Seguridad Informatica
 author: tomas
 link: https://blog.tomasps.tk/posts/Seguridad-Informatica
