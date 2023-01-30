@@ -1,6 +1,6 @@
 ---
 title: Fundamentos Internet
-author: Tomas Palma
+author: Tomas
 link: https://blog.tomasps.tk/posts/Fundamentos-Internet/
 date: 2022-03-05 11:34:00 +0800
 categories: [Trabajos]

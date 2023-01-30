@@ -1,6 +1,6 @@
 ---
 title: My Blog Entry
-author: Tomas Palma
+author: Tomas
 link: https://blog.tomasps.tk/posts/My-Blog-Entry/
 date: 2022-05-26 11:40:00 +0800
 categories: [Trabajos]
@@ -9,9 +9,7 @@ comments: true
 toc: true
 render_with_liquid: true
 image:
-  src: /img/blogentry.jpg
-  width: 800
-  height: 500
+  path: /img/blogentry.jpg
 ---
 
 # Introduction

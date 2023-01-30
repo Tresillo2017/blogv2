@@ -1,6 +1,6 @@
 ---
 title: Los Padres de la Iglesia
-author: Tomas Palma
+author: Tomas
 link: https://blog.tomasps.tk/posts/Los-Padres-de-la-Iglesia
 date: 2022-12-12 9:00:00 +0800
 categories: [trabajos]
@@ -10,8 +10,6 @@ toc: true
 render_with_liquid: true
 image:
   path: /img/LosPadresdelaIglesia.jpg
-  width: 800
-  height: 500
 ---
 
 # Quienes Son?

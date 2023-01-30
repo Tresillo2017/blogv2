@@ -1,6 +1,6 @@
 ---
 title: Francisco Salzillo
-author: Tomas Palma
+author: Tomas
 link:  https://blog.tomasps.tk/posts/Francisco-Salzillo/
 date: 2022-03-22 7:28:00 +0800
 categories: [Trabajos]
@@ -9,8 +9,6 @@ comments: true
 toc: true
 image:
   path: /img/K3wxrC5L_4x.jpg
-  width: 800
-  height: 500
 ---
 
 # Un poco de historia...
