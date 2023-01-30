@@ -9,7 +9,7 @@ comments: true
 toc: true
 render_with_liquid: true
 image:
-  path: /img/LosPadresdelaIglesia.png
+  path: /assets/img/LosPadresdelaIglesia.png
 ---
 
 # Quienes Son?

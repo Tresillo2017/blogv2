@@ -9,7 +9,7 @@ comments: true
 toc: true
 render_with_liquid: true
 image:
-  path: /img/blogentry.png
+  path: /assets/img/blogentry.png
 ---
 
 # Introduction
