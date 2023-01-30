@@ -1,8 +1,7 @@
 ---
 title: Religiones Monoteistas
-author:
-  name: Tomas Palma
-  link: https://blog.tomasps.tk/posts/Religiones-Monoteistas
+author: Tomas Palma
+link: https://blog.tomasps.tk/posts/Religiones-Monoteistas
 date: 2022-08-29 19:30:00 +0800
 categories: [trabajos]
 tags: [trabajo , presentacion, religion, powerpoint]

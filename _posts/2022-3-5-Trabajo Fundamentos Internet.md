@@ -1,8 +1,7 @@
 ---
 title: Fundamentos Internet
-author:
-  name: Tomas Palma
-  link: https://blog.tomasps.tk/posts/Fundamentos-Internet/
+author: Tomas Palma
+link: https://blog.tomasps.tk/posts/Fundamentos-Internet/
 date: 2022-03-05 11:34:00 +0800
 categories: [Trabajos]
 tags: [tecnologia, internet, trabajo, powerpoint]

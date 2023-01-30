@@ -1,8 +1,7 @@
 ---
 title: My Blog Entry
-author:
-  name: Tomas Palma
-  link: https://blog.tomasps.tk/posts/My-Blog-Entry/
+author: Tomas Palma
+link: https://blog.tomasps.tk/posts/My-Blog-Entry/
 date: 2022-05-26 11:40:00 +0800
 categories: [Trabajos]
 tags: [english, blog, entry, classroom]
@@ -10,7 +9,7 @@ comments: true
 toc: true
 render_with_liquid: true
 image:
-  src: /blogentry.jpg
+  src: /img/blogentry.jpg
   width: 800
   height: 500
 ---

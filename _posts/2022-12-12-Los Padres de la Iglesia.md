@@ -1,8 +1,7 @@
 ---
 title: Los Padres de la Iglesia
-author:
-  name: Tomas Palma
-  link: https://blog.tomasps.tk/posts/Los-Padres-de-la-Iglesia
+author: Tomas Palma
+link: https://blog.tomasps.tk/posts/Los-Padres-de-la-Iglesia
 date: 2022-12-12 9:00:00 +0800
 categories: [trabajos]
 tags: [trabajo , presentacion, religion, powerpoint]
