@@ -47,7 +47,7 @@ Desde mi punto de vista, tampoco puedo decir mucho dado que nunca he sido infect
 Si alguna vez, tienes la mala suerte de ser infectado por un virus, te recominedo hacer lo siguiente.
 ### Windows
 1. Normalmente windows defender (el antivirus integrado de windows) deberia ser suficicente, pero Windows 7/10/11 tienen una herramienta para quitar el malware llamada **MRT**.
-![Desktop View](/malware.png){: width="550" height="550" }
+![Desktop View](/img/malware.png){: width="550" height="550" }
 _Microsoft MRT_
 
 <br>
@@ -79,7 +79,7 @@ Phishing vía SMS, o “smishing,” es el gemelo malvado del vishing, que reali
 1. Normalmente el atacante se hace pasar por alguna empresa y/o particular bien sea mediante teléfono o correo.
 2. Google Chrome, puede detectar (no al 100%) algunos phishing activando su *Protección mejorada* en los ajustes.
 
-![Desktop View](/phishing.jpg){: width="550" height="550" }
+![Desktop View](/img/phishing.jpg){: width="550" height="550" }
 _Ejemplo de Phishing haciendose pasar por PayPal_
 
 # Malware
