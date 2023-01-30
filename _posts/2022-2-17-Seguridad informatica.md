@@ -9,7 +9,7 @@ comments: true
 toc: true
 render_with_liquid: true
 image:
-  path: /img/Internet-Safety.jpg
+  path: /img/Internet-Safety.png
   width: 800
   height: 500
 ---
@@ -79,7 +79,7 @@ Phishing vía SMS, o “smishing,” es el gemelo malvado del vishing, que reali
 1. Normalmente el atacante se hace pasar por alguna empresa y/o particular bien sea mediante teléfono o correo.
 2. Google Chrome, puede detectar (no al 100%) algunos phishing activando su *Protección mejorada* en los ajustes.
 
-![Desktop View](/img/phishing.jpg){: width="550" height="550" }
+![Desktop View](/img/phishing.png){: width="550" height="550" }
 _Ejemplo de Phishing haciendose pasar por PayPal_
 
 # Malware
