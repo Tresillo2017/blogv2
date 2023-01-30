@@ -7,7 +7,6 @@ categories: [Trabajos]
 tags: [tecnologia, internet, trabajo, powerpoint]
 comments: true
 toc: false
-render_with_liquid: true
 ---
 > La presentacion fue realizada con Microsoft PowerPoint y los contenidos fueron sacados del libro de tecnologia de 3ºESO
 

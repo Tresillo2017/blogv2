@@ -9,7 +9,7 @@ comments: true
 toc: true
 render_with_liquid: true
 image:
-  src: /img/LosPadresdelaIglesia.jpg
+  path: /img/LosPadresdelaIglesia.jpg
   width: 800
   height: 500
 ---

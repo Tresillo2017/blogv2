@@ -7,9 +7,8 @@ categories: [Trabajos]
 tags: [Francisco Salcillo, trabajos, religion, biografias]
 comments: true
 toc: true
-render_with_liquid: true
 image:
-  src: /img/K3wxrC5L_4x.jpg
+  path: /img/K3wxrC5L_4x.jpg
   width: 800
   height: 500
 ---
