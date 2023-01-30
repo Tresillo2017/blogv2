@@ -1,6 +1,6 @@
 ---
 title: My Blog Entry
-author: Tomas
+author: tomas
 link: https://blog.tomasps.tk/posts/My-Blog-Entry/
 date: 2022-05-26 11:40:00 +0800
 categories: [Trabajos]

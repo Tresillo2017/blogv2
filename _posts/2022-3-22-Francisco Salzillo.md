@@ -1,6 +1,6 @@
 ---
 title: Francisco Salzillo
-author: Tomas
+author: tomas
 link:  https://blog.tomasps.tk/posts/Francisco-Salzillo/
 date: 2022-03-22 7:28:00 +0800
 categories: [Trabajos]

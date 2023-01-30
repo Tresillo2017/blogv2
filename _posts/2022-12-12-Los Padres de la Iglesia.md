@@ -1,6 +1,6 @@
 ---
 title: Los Padres de la Iglesia
-author: Tomas
+author: tomas
 link: https://blog.tomasps.tk/posts/Los-Padres-de-la-Iglesia
 date: 2022-12-12 9:00:00 +0800
 categories: [trabajos]
