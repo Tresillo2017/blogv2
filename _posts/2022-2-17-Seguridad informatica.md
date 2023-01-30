@@ -1,6 +1,6 @@
 ---
 title: Seguridad Informatica
-author: Tomas Palma
+author: Tomas
 link: https://blog.tomasps.tk/posts/Seguridad-Informatica
 date: 2022-02-17 10:28:00 +0800
 categories: [seguridad informatica]
