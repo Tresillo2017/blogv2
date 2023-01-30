@@ -9,7 +9,7 @@ comments: true
 toc: true
 render_with_liquid: true
 image:
-  path: /Internet-Safety.jpg
+  path: /img/Internet-Safety.jpg
   width: 800
   height: 500
 ---
