@@ -6,7 +6,12 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-tomas:
-  name: Tomas Palma Sanchez
-  twitter: toomas_ps
-  url: https://github.com/tresillo2017
+cotes:
+  name: Cotes Chung
+  twitter: cotes2020
+  url: https://github.com/cotes2020/
+
+sille_bille:
+  name: Dinesh Prasanth Moluguwan Krishnamoorthy
+  twitter: dinesh_MKD
+  url: https://github.com/SilleBille/
